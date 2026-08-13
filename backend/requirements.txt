@@ -1,0 +1,42 @@
+# Backend Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Django
+Django==5.0.6
+djangorestframework==3.15.2
+
+# JWT Authentication
+djangorestframework-simplejwt==5.3.1
+
+# CORS
+django-cors-headers==4.4.0
+
+# Filtering
+django-filter==24.2
+
+# Environment variables
+django-environ==0.11.2
+
+# PostgreSQL adapter
+psycopg2-binary==2.9.9
+
+# Cloud storage
+django-storages==1.14.3
+boto3==1.34.144          # AWS S3
+cloudinary==1.40.0       # Cloudinary (alternative)
+
+# Payments — UPI (PhonePe/GPay/Paytm), cards, netbanking via Razorpay
+razorpay==1.4.2
+
+# Static files in production
+whitenoise==6.7.0
+
+# API development helpers
+drf-spectacular==0.27.2  # OpenAPI/Swagger schema generation
+
+# Production WSGI server
+gunicorn==22.0.0
+
+# Development only
+ipython==8.26.0
+django-extensions==3.2.3
