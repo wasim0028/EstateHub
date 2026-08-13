@@ -1,6 +1,6 @@
 # 🏡 EstateHub — Real Estate Full-Stack Application
 
-A production-ready real estate portal built with **Next.js 14 (App Router)** and **Python Django REST Framework**, styled after Indian real-estate portals like housing.com and 99acres.
+A production-ready real estate portal built with **Next.js 14 (App Router)** and **Python Django REST Framework**
 
 ## 🔀 Merge notes (contact + site-visit payment feature)
 
