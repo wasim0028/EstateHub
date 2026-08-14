@@ -38,31 +38,6 @@ Built with **Next.js 14 (App Router)** and **Django REST Framework**.
 
 ---
 
-## Screenshots
-
-> Screenshots live in `docs/screenshots/`. See that folder's README for the capture list.
-
-### Homepage
-| Light | Dark |
-|---|---|
-| <img src="docs/screenshots/home-light.png" width="420" alt="Homepage, light mode"> | <img src="docs/screenshots/home-dark.png" width="420" alt="Homepage, dark mode"> |
-
-### Browsing and booking
-| Listings with filters | Property detail |
-|---|---|
-| <img src="docs/screenshots/listings.png" width="420" alt="Property listings with filter sidebar"> | <img src="docs/screenshots/property-detail.png" width="420" alt="Property detail page"> |
-
-### Agent tools
-| Dashboard | Paid site visits |
-|---|---|
-| <img src="docs/screenshots/agent-dashboard.png" width="420" alt="Agent dashboard"> | <img src="docs/screenshots/agent-bookings.png" width="420" alt="Agent view of paid site visits"> |
-
-### Mobile
-| Listings | Navigation |
-|---|---|
-| <img src="docs/screenshots/mobile-listings.png" width="240" alt="Listings on mobile"> | <img src="docs/screenshots/mobile-menu.png" width="240" alt="Mobile navigation menu"> |
-
----
 
 ## Architecture
 
